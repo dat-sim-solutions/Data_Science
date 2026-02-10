@@ -7,3 +7,5 @@ For 1 magnitud and for 6 magnitudes, with confusion matrix and Feature Ranking (
 K-means
 
 K Nearest Neighbourd
+
+Logistic regression considering 4 physics magnitudes for the samples, and 3 possible rock units classification.
